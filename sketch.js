@@ -31,8 +31,8 @@ function preload() {
 
 
   //preload all 4 images and json here..
-  brokenBoatSpritesheet= loadImage("assets/boat/brokenboat.png")
-  brokenBoatSpritedata= loadJSON("assets/boat/brokenboat.json")
+  brokenBoatSpritesheet= loadImage("assets/boat/brokenBoat.png")
+  brokenBoatSpritedata= loadJSON("assets/boat/brokenBoat.json")
   watersplashSpritesheet= loadImage("assets/waterSplash/waterSplash.png")
   watersplashspritedata= loadJSON("assets/waterSplash/waterSplash.json")
   bgsound=loadSound("assets/background_music.mp3")
